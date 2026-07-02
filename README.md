@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-Hi, I'm Javeria Razzaq<br><br>I'm a Software Engineering student who recently interned as a Backend Developer <br>at projSoch. I enjoy building things end-to-end — from a Java/JavaFX aerial <br>defence dashboard backed by MySQL to a file-based banking system — and I have <br>a solid grounding in DSA, DBMS, and OOP from my coursework.<br><br>I'm currently branching into data science and machine learning, and actively <br>looking for internship opportunities in software engineering.
+Hi, I'm Javeria Razzaq<br><br>I'm a Software Engineering student who recently interned as a Backend Developer <br>at projSoch. I enjoy building things end-to-end — from a Java/JavaFX aerial <br>defence dashboard backed by MySQL to a file-based banking system. <br><br>I'm currently branching into data science and machine learning, and actively <br>looking for internship opportunities in software engineering.
 
 
 ## 🌐 Socials:

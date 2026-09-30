@@ -2,6 +2,14 @@
 # 💫 About Me:
 Hi, I'm Javeria Razzaq<br><br>I'm a Software Engineering student who recently volenteered as a Backend Developer <br>at projectSoch. I enjoy building things end-to-end — from a Java/JavaFX aerial <br>defence dashboard backed by MySQL to a file-based banking system. <br><br>I'm actively <br>looking for internship opportunities in software engineering.
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18&height=200&section=header&text=Hi,%20I'm%20YOUR%20NAME&fontSize=42&fontColor=ffffff&animation=fadeIn" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF6B9D&center=true&vCenter=true&width=520&lines=Full-Stack+Developer;AI+%26+ML+Builder;Hackathon+Enthusiast" />
+</p>
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/javeria-razzaq-782765312/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:javeria.techit123@gmail.com) 

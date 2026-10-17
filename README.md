@@ -94,9 +94,9 @@ javeria@dev:~$ _
 | Project | What it is | Link |
 |---|---|---|
 | **SafeSpot** | Scam-prevention project built for the DoraHacks 2.0 hackathon | [`repo ->`](https://github.com/javeria222/Market-Risk-Detector/) |
-<!-- | **Blast Radius** | Built for the IBM Bob 2.0 hackathon (in progress) | [`repo ->`](https://github.com/javeria222/Blast_Radius/) | -->
-| **AlphaForge** | Team AlphaForge's lablab.ai hackathon project | [`repo ->`](https://github.com/javeria222/AlphaForge/) |
+| **AlphaForge** | Team AlphaForge's Assembly AI hackathon project | [`repo ->`](https://github.com/javeria222/AlphaForge/) |
 | **Multi-Tenant Inventory API** | Multi-tenant backend API | [`repo ->`](https://github.com/javeria222/multi_tanent_inventory) |
+<!-- | **Blast Radius** | Built for the IBM Bob 2.0 hackathon (in progress) | [`repo ->`](https://github.com/javeria222/Blast_Radius/) | -->
 
 <br/>
 

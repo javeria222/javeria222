@@ -141,14 +141,17 @@ javeria@dev:~$ _
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=javeria.techit123@gmail.com&su=Hello%20Javeria">
   <img src="https://img.shields.io/badge/Email-Say%20hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" height="48" alt="Email" />
 </a>
+
+<br/>
+
 <sub>or write to: javeria.techit123@gmail.com</sub>
 
-<br/><br/>
+<br/>
 
 <sub>`exit 0` - thanks for stopping by. If you're hiring for backend or have a project in mind, my inbox is open.</sub>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5A0,100:7C5CFF&height=100&section=footer" width="100%" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5A0,100:7C5CFF&height=150&section=footer" width="100%" alt="footer" />
 
 </div>

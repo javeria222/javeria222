@@ -105,6 +105,12 @@ javeria@dev:~$ _
 <!-- This section refreshes automatically via .github/workflows/update-readme.yml -->
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#15](https://github.com/rihabjedaa7/AlphaForge/pull/15) in [rihabjedaa7/AlphaForge](https://github.com/rihabjedaa7/AlphaForge)
+2. 💪 Opened PR [#15](https://github.com/rihabjedaa7/AlphaForge/pull/15) in [rihabjedaa7/AlphaForge](https://github.com/rihabjedaa7/AlphaForge)
+3. 💪 Opened PR [#4](https://github.com/javeria222/The_Learners_Academy/pull/4) in [javeria222/The_Learners_Academy](https://github.com/javeria222/The_Learners_Academy)
+4. ❌ Closed PR [#3](https://github.com/javeria222/The_Learners_Academy/pull/3) in [javeria222/The_Learners_Academy](https://github.com/javeria222/The_Learners_Academy)
+5. 💪 Opened PR [#3](https://github.com/javeria222/The_Learners_Academy/pull/3) in [javeria222/The_Learners_Academy](https://github.com/javeria222/The_Learners_Academy)
+6. 💪 Opened PR [#2](https://github.com/javeria222/The_Learners_Academy/pull/2) in [javeria222/The_Learners_Academy](https://github.com/javeria222/The_Learners_Academy)
 <!--END_SECTION:activity-->
 
 <br/>

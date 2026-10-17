@@ -138,9 +138,10 @@ javeria@dev:~$ _
   <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" height="48" alt="LinkedIn" />
 </a>
 &nbsp;&nbsp;
-<a href="mailto:javeria.techit123@gmail.com">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=javeria.techit123@gmail.com&su=Hello%20Javeria">
   <img src="https://img.shields.io/badge/Email-Say%20hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" height="48" alt="Email" />
 </a>
+<sub>or write to: javeria.techit123@gmail.com</sub>
 
 <br/><br/>
 

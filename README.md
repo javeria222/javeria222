@@ -105,8 +105,8 @@ javeria@dev:~$ _
 <!-- This section refreshes automatically via .github/workflows/update-readme.yml -->
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#5](https://github.com/javeria222/The_Learners_Academy/pull/5) in [javeria222/The_Learners_Academy](https://github.com/javeria222/The_Learners_Academy)
-2. 🎉 Merged PR [#15](https://github.com/rihabjedaa7/AlphaForge/pull/15) in [rihabjedaa7/AlphaForge](https://github.com/rihabjedaa7/AlphaForge)
+1. 💪 Opened PR [#1](https://github.com/a6dulrauf/introduction-to-data-science-fall26/pull/1) in [a6dulrauf/introduction-to-data-science-fall26](https://github.com/a6dulrauf/introduction-to-data-science-fall26)
+2. 💪 Opened PR [#5](https://github.com/javeria222/The_Learners_Academy/pull/5) in [javeria222/The_Learners_Academy](https://github.com/javeria222/The_Learners_Academy)
 3. 💪 Opened PR [#15](https://github.com/rihabjedaa7/AlphaForge/pull/15) in [rihabjedaa7/AlphaForge](https://github.com/rihabjedaa7/AlphaForge)
 4. 💪 Opened PR [#4](https://github.com/javeria222/The_Learners_Academy/pull/4) in [javeria222/The_Learners_Academy](https://github.com/javeria222/The_Learners_Academy)
 5. ❌ Closed PR [#3](https://github.com/javeria222/The_Learners_Academy/pull/3) in [javeria222/The_Learners_Academy](https://github.com/javeria222/The_Learners_Academy)

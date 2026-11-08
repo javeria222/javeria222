@@ -105,11 +105,11 @@ javeria@dev:~$ _
 <!-- This section refreshes automatically via .github/workflows/update-readme.yml -->
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3161](https://github.com/meshery/meshery.io/issues/3161#issuecomment-6708339415) in [meshery/meshery.io](https://github.com/meshery/meshery.io)
-2. 💪 Opened PR [#1](https://github.com/a6dulrauf/introduction-to-data-science-fall26/pull/1) in [a6dulrauf/introduction-to-data-science-fall26](https://github.com/a6dulrauf/introduction-to-data-science-fall26)
-3. 💪 Opened PR [#5](https://github.com/javeria222/The_Learners_Academy/pull/5) in [javeria222/The_Learners_Academy](https://github.com/javeria222/The_Learners_Academy)
-4. 💪 Opened PR [#4](https://github.com/javeria222/The_Learners_Academy/pull/4) in [javeria222/The_Learners_Academy](https://github.com/javeria222/The_Learners_Academy)
-5. ❌ Closed PR [#3](https://github.com/javeria222/The_Learners_Academy/pull/3) in [javeria222/The_Learners_Academy](https://github.com/javeria222/The_Learners_Academy)
+1. 💪 Opened PR [#3](https://github.com/a6dulrauf/introduction-to-data-science-fall26/pull/3) in [a6dulrauf/introduction-to-data-science-fall26](https://github.com/a6dulrauf/introduction-to-data-science-fall26)
+2. ❌ Closed PR [#1](https://github.com/a6dulrauf/introduction-to-data-science-fall26/pull/1) in [a6dulrauf/introduction-to-data-science-fall26](https://github.com/a6dulrauf/introduction-to-data-science-fall26)
+3. 🗣 Commented on [#3161](https://github.com/meshery/meshery.io/issues/3161#issuecomment-6708339415) in [meshery/meshery.io](https://github.com/meshery/meshery.io)
+4. 💪 Opened PR [#1](https://github.com/a6dulrauf/introduction-to-data-science-fall26/pull/1) in [a6dulrauf/introduction-to-data-science-fall26](https://github.com/a6dulrauf/introduction-to-data-science-fall26)
+5. 💪 Opened PR [#5](https://github.com/javeria222/The_Learners_Academy/pull/5) in [javeria222/The_Learners_Academy](https://github.com/javeria222/The_Learners_Academy)
 6. 💪 Opened PR [#3](https://github.com/javeria222/The_Learners_Academy/pull/3) in [javeria222/The_Learners_Academy](https://github.com/javeria222/The_Learners_Academy)
 <!--END_SECTION:activity-->
 

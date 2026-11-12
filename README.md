@@ -105,10 +105,10 @@ javeria@dev:~$ _
 <!-- This section refreshes automatically via .github/workflows/update-readme.yml -->
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3174](https://github.com/meshery/meshery.io/pull/3174#issuecomment-6776842289) in [meshery/meshery.io](https://github.com/meshery/meshery.io)
-2. 💪 Opened PR [#3174](https://github.com/meshery/meshery.io/pull/3174) in [meshery/meshery.io](https://github.com/meshery/meshery.io)
-3. 🗣 Commented on [#3169](https://github.com/meshery/meshery.io/issues/3169#issuecomment-6749207105) in [meshery/meshery.io](https://github.com/meshery/meshery.io)
-4. ℹ️ Labeled issue [#3169](https://github.com/meshery/meshery.io/issues/3169) in [meshery/meshery.io](https://github.com/meshery/meshery.io)
+1. 🗣 Commented on [#3174](https://github.com/meshery/meshery.io/pull/3174#issuecomment-6805552728) in [meshery/meshery.io](https://github.com/meshery/meshery.io)
+2. 🗣 Commented on [#3174](https://github.com/meshery/meshery.io/pull/3174#issuecomment-6776842289) in [meshery/meshery.io](https://github.com/meshery/meshery.io)
+3. 💪 Opened PR [#3174](https://github.com/meshery/meshery.io/pull/3174) in [meshery/meshery.io](https://github.com/meshery/meshery.io)
+4. 🗣 Commented on [#3169](https://github.com/meshery/meshery.io/issues/3169#issuecomment-6749207105) in [meshery/meshery.io](https://github.com/meshery/meshery.io)
 5. ℹ️ Labeled issue [#3169](https://github.com/meshery/meshery.io/issues/3169) in [meshery/meshery.io](https://github.com/meshery/meshery.io)
 6. ℹ️ Labeled issue [#3169](https://github.com/meshery/meshery.io/issues/3169) in [meshery/meshery.io](https://github.com/meshery/meshery.io)
 <!--END_SECTION:activity-->

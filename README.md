@@ -105,12 +105,12 @@ javeria@dev:~$ _
 <!-- This section refreshes automatically via .github/workflows/update-readme.yml -->
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#23484](https://github.com/meshery/meshery/pull/23484) in [meshery/meshery](https://github.com/meshery/meshery)
-2. 💪 Opened PR [#23484](https://github.com/meshery/meshery/pull/23484) in [meshery/meshery](https://github.com/meshery/meshery)
-3. 🗣 Commented on [#3174](https://github.com/meshery/meshery.io/pull/3174#issuecomment-6805552728) in [meshery/meshery.io](https://github.com/meshery/meshery.io)
-4. 🗣 Commented on [#3174](https://github.com/meshery/meshery.io/pull/3174#issuecomment-6776842289) in [meshery/meshery.io](https://github.com/meshery/meshery.io)
-5. 💪 Opened PR [#3174](https://github.com/meshery/meshery.io/pull/3174) in [meshery/meshery.io](https://github.com/meshery/meshery.io)
-6. 🗣 Commented on [#3169](https://github.com/meshery/meshery.io/issues/3169#issuecomment-6749207105) in [meshery/meshery.io](https://github.com/meshery/meshery.io)
+1. 🗣 Commented on [#10560](https://github.com/meshery/meshery/issues/10560#issuecomment-6914283363) in [meshery/meshery](https://github.com/meshery/meshery)
+2. 🎉 Merged PR [#23484](https://github.com/meshery/meshery/pull/23484) in [meshery/meshery](https://github.com/meshery/meshery)
+3. 💪 Opened PR [#23484](https://github.com/meshery/meshery/pull/23484) in [meshery/meshery](https://github.com/meshery/meshery)
+4. 🗣 Commented on [#3174](https://github.com/meshery/meshery.io/pull/3174#issuecomment-6805552728) in [meshery/meshery.io](https://github.com/meshery/meshery.io)
+5. 🗣 Commented on [#3174](https://github.com/meshery/meshery.io/pull/3174#issuecomment-6776842289) in [meshery/meshery.io](https://github.com/meshery/meshery.io)
+6. 💪 Opened PR [#3174](https://github.com/meshery/meshery.io/pull/3174) in [meshery/meshery.io](https://github.com/meshery/meshery.io)
 <!--END_SECTION:activity-->
 
 <br/>
